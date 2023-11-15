@@ -19,3 +19,5 @@
 5. Create a local mkdocs server to check the content. This will create a locally hosted static website. Address will be shown in terminal.
 
     mkdocs serve
+
+6. 
