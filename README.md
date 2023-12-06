@@ -4,3 +4,4 @@
 
 |Page Name|Content|
 |:-------:|:-----:|
+|Index|List of all the pages|
