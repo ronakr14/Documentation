@@ -4,4 +4,5 @@
 
 |Page Name|Content|
 |:-------:|:-----:|
-|Index|List of all the pages|
+|Homepage|List of all the pages|
+|Custom-Python-Library|Custom methods integrating famous and frequently used libraries.|

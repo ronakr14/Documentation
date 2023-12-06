@@ -1,6 +1,6 @@
-# # Custom Python Library
+# Custom Python Library
 
-Custom library for frequent used methods/libraries.
+Custom methods integrating famous and frequently used libraries.
 
 ## Installation
 
